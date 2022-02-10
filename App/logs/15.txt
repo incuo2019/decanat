@@ -1,0 +1,14 @@
+
+ =============== 30.08.2021 09:31:55 =============== 
+Выполнение метода App\Models\User / update
+{"no_fields":["id"],"fields":{"id":"15","number_card":"123456","firstname":"Ilya","middlename":"Muslatovich","lastname":"Gamidov","birth_date":"2000-09-22","phone":"79994826057","password":"74c5abafca4d27f5d6656e7c7290c8c2","access_level":"0","department_id":"1","group_id":"1","is_removed":"0"}}
+
+ =============== 30.08.2021 09:31:55 =============== 
+Установлен пароль 
+{"no_fields":["id"],"fields":{"id":"15","number_card":"123456","firstname":"Ilya","middlename":"Muslatovich","lastname":"Gamidov","birth_date":"2000-09-22","phone":"79994826057","password":"74c5abafca4d27f5d6656e7c7290c8c2","access_level":"0","department_id":"1","group_id":"1","is_removed":"0"}}
+
+ =============== 30.08.2021 09:32:13 =============== 
+Авторизация
+
+ =============== 31.08.2021 13:04:20 =============== 
+Авторизация

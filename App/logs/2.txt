@@ -1,0 +1,590 @@
+
+ =============== 01.09.2021 09:12:23 =============== 
+Авторизация
+
+ =============== 01.09.2021 09:13:14 =============== 
+Авторизация
+
+ =============== 01.09.2021 09:13:23 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:13:23","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:13:31 =============== 
+Выполнение метода App\Models\Certificate / update
+{"no_fields":["id"],"fields":{"id":"1","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:13:31","status_id":1,"is_removed":"0"}}
+
+ =============== 01.09.2021 09:13:39 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"1","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:13:31","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:13:40 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:13:40","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:13:50 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:13:40","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:14:02 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:14:02","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:14:19 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"3","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:14:02","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:14:24 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:14:24","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:14:45 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"4","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:14:24","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:14:59 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:14:59","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:15:03 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"5","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:14:59","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:15:04 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:15:04","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:15:10 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"6","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:15:04","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:15:12 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:15:12","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:16:03 =============== 
+Выполнение метода App\Models\Certificate / update
+{"no_fields":["id"],"fields":{"id":"7","type_id":2,"date_preorder":"2021-09-02","count":1,"comment":"","creator_id":"2","date_create":"2021-09-01 09:16:03","status_id":1,"is_removed":"0"}}
+
+ =============== 01.09.2021 09:16:04 =============== 
+Выполнение метода App\Models\Certificate / update
+{"no_fields":["id"],"fields":{"id":"7","type_id":3,"date_preorder":"2021-09-02","count":2,"comment":"","creator_id":"2","date_create":"2021-09-01 09:16:04","status_id":1,"is_removed":"0"}}
+
+ =============== 01.09.2021 09:16:07 =============== 
+Выполнение метода App\Models\Certificate / delete
+{"no_fields":["id"],"fields":{"id":"7","type_id":"3","date_preorder":"2021-09-02","count":"2","comment":"","creator_id":"2","date_create":"2021-09-01 09:16:04","status_id":"1","is_removed":"0"}}
+
+ =============== 01.09.2021 09:17:06 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:17:06","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:17:06 =============== 
+Выполнение метода App\Models\Characteristic / delete
+{"no_fields":["id"],"fields":{"id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:17:06","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:17:24 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:17:24","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:17:32 =============== 
+Выполнение метода App\Models\Characteristic / delete
+{"no_fields":["id"],"fields":{"id":"3","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:17:24","status_id":"1","file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:17:38 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:17:38","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:20:40 =============== 
+Выполнение метода App\Models\Characteristic / update
+{"no_fields":["id"],"fields":{"id":"4","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:20:40","status_id":1,"file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:20:43 =============== 
+Выполнение метода App\Models\Characteristic / update
+{"no_fields":["id"],"fields":{"id":"4","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:20:43","status_id":1,"file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:21:11 =============== 
+Выполнение метода App\Models\Characteristic / delete
+{"no_fields":["id"],"fields":{"id":"4","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:20:43","status_id":"1","file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:21:24 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:21:24","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:21:37 =============== 
+Выполнение метода App\Models\Characteristic / update
+{"no_fields":["id"],"fields":{"id":"5","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:21:37","status_id":1,"file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:21:45 =============== 
+Выполнение метода App\Models\Characteristic / delete
+{"no_fields":["id"],"fields":{"id":"5","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:21:37","status_id":"1","file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:21:51 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:21:51","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:22:56 =============== 
+Режим администратора ON
+
+ =============== 01.09.2021 09:23:25 =============== 
+Выполнение метода App\Models\Characteristic / delete
+{"no_fields":["id"],"fields":{"id":"6","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:21:51","status_id":"1","file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:23:31 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:23:31","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:25:11 =============== 
+Выполнение метода App\Models\Characteristic / delete
+{"no_fields":["id"],"fields":{"id":"7","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-01 09:23:31","status_id":"1","file_id":"0","is_removed":"0"}}
+
+ =============== 01.09.2021 09:25:33 =============== 
+Выполнение метода App\Models\Certificate / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:25:33","status_id":1,"is_removed":""}}
+
+ =============== 01.09.2021 09:25:45 =============== 
+Выполнение метода App\Models\Certificate / update
+{"no_fields":["id"],"fields":{"id":"8","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"тлбю","creator_id":"2","date_create":"2021-09-01 09:25:33","status_id":3,"is_removed":"0"}}
+
+ =============== 01.09.2021 09:26:17 =============== 
+Режим пользователя ON
+
+ =============== 01.09.2021 09:26:22 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-01 09:26:22","status_id":1,"file_id":"","is_removed":""}}
+
+ =============== 01.09.2021 09:26:25 =============== 
+Режим администратора ON
+
+ =============== 01.09.2021 09:26:32 =============== 
+Выполнение метода App\Models\Characteristic / update
+{"no_fields":["id"],"fields":{"id":"8","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"пьпор","creator_id":"2","date_create":"2021-09-01 09:26:22","status_id":3,"file_id":"0","is_removed":"0"}}
+
+ =============== 02.09.2021 08:39:06 =============== 
+Авторизация
+
+ =============== 02.09.2021 08:39:11 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:11","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:17 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:17","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:17 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":10,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:17","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:19 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:19","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:19 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":11,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:19","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:20 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:20","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:20 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":12,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:20","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:21 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:21","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:21 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":13,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:21","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:22 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:22","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:22 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":14,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:22","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:22 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:22","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:22 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":15,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:22","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:23 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:23","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:23 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":16,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:23","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:24 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:24","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:24 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":17,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:24","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:25 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:25","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:25 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":18,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:25","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:25 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:25","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:25 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":19,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:25","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":20,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":21,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":22,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":23,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:27 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":24,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:27","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:30 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:30","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:30 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":25,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:30","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:31 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:31","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:39:31 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":26,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:39:31","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:40:34 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:40:34","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:40:34 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":27,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:40:34","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:40:39 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:40:39","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:40:39 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":28,"class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:40:39","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:56:55 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:56:55","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:57:04 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"9","class_id":"1","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 08:39:11","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 08:57:06 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:57:06","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:57:15 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"36","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:57:15","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 08:57:21 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"35","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:57:21","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 08:57:27 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"35","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 08:57:21","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 08:57:35 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"36","class_id":"1","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 08:57:15","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 08:58:04 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:58:04","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:58:11 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"37","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:58:11","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 08:58:20 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:58:20","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 08:58:33 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"37","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:58:33","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 08:58:34 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:34 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:34 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:35 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:36 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:36 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:36 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:36 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:36 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:36 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:37 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:38 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:58:42 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 08:58:55 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"37","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"чс","creator_id":"2","date_create":"2021-09-02 08:58:33","status_id":3,"is_removed":"0"}}
+
+ =============== 02.09.2021 08:59:02 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 08:59:30 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"38","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 08:59:30","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:04:23 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:04:23","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:04:33 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"39","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:04:33","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:04:42 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 09:04:53 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"39","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"ти","creator_id":"2","date_create":"2021-09-02 09:04:33","status_id":3,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:04:56 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 09:07:50 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"38","class_id":"1","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 08:59:30","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 09:07:51 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:07:51","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:07:58 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"40","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:07:58","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:08:07 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"40","class_id":"1","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 09:07:58","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 09:08:09 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":1,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:08:09","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:08:18 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:08:18","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:08:21 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"42","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 09:08:18","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 09:08:23 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:08:23","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:08:26 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"43","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:08:26","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:08:28 =============== 
+Выполнение метода App\Models\Document / delete
+{"no_fields":["id"],"fields":{"id":"43","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 09:08:26","status_id":"1","is_removed":"0"}}
+
+ =============== 02.09.2021 09:08:30 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:08:30","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:15:53 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"44","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:15:53","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:15:57 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 09:16:05 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"44","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 09:15:53","status_id":3,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:16:11 =============== 
+Режим пользователя ON
+
+ =============== 02.09.2021 09:20:52 =============== 
+Выполнение метода App\Models\Document / insert
+{"no_fields":["id"],"fields":{"id":"","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:20:52","status_id":1,"is_removed":""}}
+
+ =============== 02.09.2021 09:21:00 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"46","class_id":2,"type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"2","date_create":"2021-09-02 09:21:00","status_id":1,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:21:04 =============== 
+Режим администратора ON
+
+ =============== 02.09.2021 09:21:13 =============== 
+Выполнение метода App\Models\Document / update
+{"no_fields":["id"],"fields":{"id":"46","class_id":"2","type_id":"1","date_preorder":"0000-00-00","count":"","comment":"","creator_id":"2","date_create":"2021-09-02 09:21:00","status_id":3,"is_removed":"0"}}
+
+ =============== 02.09.2021 09:21:17 =============== 
+Режим пользователя ON

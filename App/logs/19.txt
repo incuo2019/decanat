@@ -1,0 +1,24 @@
+
+ =============== 31.08.2021 13:28:38 =============== 
+Выполнение метода App\Models\User / update
+{"no_fields":["id"],"fields":{"id":"19","number_card":"181474","firstname":"Илья","middlename":"123123","lastname":"Гамидов","birth_date":"1585-11-21","phone":"78999482605","password":"550e1bafe077ff0b0b67f4e32f29d751","access_level":"0","department_id":"2","group_id":"5","is_removed":"0"}}
+
+ =============== 31.08.2021 13:28:38 =============== 
+Установлен пароль 
+{"no_fields":["id"],"fields":{"id":"19","number_card":"181474","firstname":"Илья","middlename":"123123","lastname":"Гамидов","birth_date":"1585-11-21","phone":"78999482605","password":"550e1bafe077ff0b0b67f4e32f29d751","access_level":"0","department_id":"2","group_id":"5","is_removed":"0"}}
+
+ =============== 31.08.2021 13:28:57 =============== 
+Авторизация
+
+ =============== 31.08.2021 13:29:28 =============== 
+Выход из системы
+
+ =============== 31.08.2021 13:29:40 =============== 
+Авторизация
+
+ =============== 31.08.2021 13:29:44 =============== 
+Попытка обращения к CertificatesController / accept
+
+ =============== 31.08.2021 13:30:25 =============== 
+Выполнение метода App\Models\Characteristic / insert
+{"no_fields":["id"],"fields":{"id":"","type_id":1,"date_preorder":null,"count":null,"comment":"","creator_id":"19","date_create":"2021-08-31 13:30:25","status_id":1,"file_id":"","is_removed":""}}
